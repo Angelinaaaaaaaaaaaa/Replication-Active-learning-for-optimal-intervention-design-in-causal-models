@@ -20,10 +20,13 @@ Run on a synthetic instance, e.g.:
 ```
 python run.py --nnodes 5 --noise_level 1 --DAG_type path --std --a_size 2 --a_target 3 4 --acquisition greedy
 ```
+This runs a synthetic data experiment using 1 specified acqusition function. 
 After running, results will be stored in a folder, which contains of 3 pickle files. 
 To visualze the results: 
 ```
 python visualze_results.py
 ```
+More examples given in: ./optint/notebook/test_multigraphs.ipynb
+Visualization of results comparison are stored in `./optint/results`
 Source code folder: `./optint/`
 
