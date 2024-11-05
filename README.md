@@ -1,6 +1,7 @@
 # Replication-Active-learning-for-optimal-intervention-design-in-causal-models
-DSC180 Project by Cici and Angelina \
-This is an replication for paper: Active learning for optimal intervention design in causal models (Nature Machine Intelligence, 2023). Specifically, we focused on replicating the experiment on synthetic data. \
+DSC180 Project by Cici and Angelina 
+
+This is an replication for paper: Active learning for optimal intervention design in causal models (Nature Machine Intelligence, 2023). Specifically, we focused on replicating the experiment on synthetic data. 
 
 ## Installation
 Follow the two steps illustrated below
