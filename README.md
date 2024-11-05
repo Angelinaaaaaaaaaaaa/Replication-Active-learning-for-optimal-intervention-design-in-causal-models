@@ -22,6 +22,7 @@ python run.py --nnodes 5 --noise_level 1 --DAG_type path --std --a_size 2 --a_ta
 ```
 This runs a synthetic data experiment using 1 specified acqusition function. 
 After running, results will be stored in a folder, which contains of 3 pickle files. 
+
 To visualze the results: 
 ```
 python visualze_results.py
