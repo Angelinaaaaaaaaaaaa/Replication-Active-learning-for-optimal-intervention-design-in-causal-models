@@ -4,8 +4,6 @@ __pycache__/
 *.npy
 *.csv
 *.txt
-*.pdf
-*.png
 *.DS_Store
 *.egg-info/
 **/tmp/
