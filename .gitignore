@@ -1,0 +1,14 @@
+__pycache__/
+*.ipynb_checkpoints
+*.pkl
+*.npy
+*.csv
+*.txt
+*.pdf
+*.png
+*.DS_Store
+*.egg-info/
+**/tmp/
+**/figures/
+**/perturb-CITE-seq/data/
+**/perturb-CITE-seq/preprocess/data/
